@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Nithin Reddy Aenugu  
+- 👀 I’m interested in Java Full Stack Development and Depp Learning  
+- 🌱 I’m currently learning Deep Learning and Web Technologies  
+- 💞️ I’m looking to collaborate on Web Application Projects  
+- 📫 How to reach me: nithinreddyaenugu1@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving complex problems with clean and efficient code!  
+
+
+<!---
+nithinreddy2256/nithinreddy2256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
