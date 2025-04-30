@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Application Projects  
 - 📫 How to reach me: nithinreddyaenugu1@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving complex problems with clean and efficient code!  
+- ⚡ Fun fact: I love solving complex problems with clean and efficient code! 
 
 
 <!---
