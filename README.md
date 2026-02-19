@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nithin Reddy Aenugu  
-- 👀 I’m interested in Java Full Stack Development and Deep Learning  
-- 🌱 I’m currently learning Deep Learning and Web Technologies  
-- 💞️ I’m looking to collaborate on Web Application Projects  
-- 📫 How to reach me: nithinreddy2256@gmail.com   
-- ⚡ Fun fact: I love solving complex problems with clean and efficient code! 
+-  I’m interested in Java Full Stack Development and Deep Learning  
+-  I’m currently learning Deep Learning and Web Technologies  
+-  I’m looking to collaborate on Web Application Projects  
+-  How to reach me: nithinreddy2256@gmail.com   
+
 
 
 <!---
